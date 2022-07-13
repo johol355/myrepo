@@ -8,3 +8,6 @@ And this line was added later, at 22:51
 Line no 3.
 
 Line 4, commited but not pushed!
+
+
+Lajn 5, commited and pushed!!!1
